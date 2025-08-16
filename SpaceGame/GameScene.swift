@@ -4,6 +4,7 @@
 //
 //  Created by Александр Викторов on 16.08.2025.
 //
+//привет 2 раза
 
 import SpriteKit
 import GameplayKit
