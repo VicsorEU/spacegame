@@ -4,11 +4,7 @@
 //
 //  Created by Александр Викторов on 16.08.2025.
 //
-//tetst sdf
-//tetst sdf
-//tetst sdf1
-//tetst sdf2
-//tetst sdf3
+
 
 //Какие нужно изменения?
 
