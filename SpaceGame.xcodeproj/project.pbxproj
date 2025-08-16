@@ -35,16 +35,6 @@
 			path = Spacegame;
 			sourceTree = "<group>";
 		};
-		91E922CD2E50AE5C00AA0664 /* SpacegameTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SpacegameTests;
-			sourceTree = "<group>";
-		};
-		91E922D72E50AE5D00AA0664 /* SpacegameUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SpacegameUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				91E922B32E50AE5700AA0664 /* Spacegame */,
-				91E922CD2E50AE5C00AA0664 /* SpacegameTests */,
-				91E922D72E50AE5D00AA0664 /* SpacegameUITests */,
 				91E922B22E50AE5700AA0664 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				91E922CC2E50AE5C00AA0664 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				91E922CD2E50AE5C00AA0664 /* SpacegameTests */,
-			);
 			name = SpacegameTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				91E922D62E50AE5D00AA0664 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				91E922D72E50AE5D00AA0664 /* SpacegameUITests */,
 			);
 			name = SpacegameUITests;
 			packageProductDependencies = (
